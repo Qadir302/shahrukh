@@ -1,0 +1,10 @@
+
+
+git log 
+to get back your data and resume 
+branch making  in 
+git branch wqas 
+or any name of user 
+if you wanna go back to the 
+
+checkoutn to get back your stage to remove new line or code 
